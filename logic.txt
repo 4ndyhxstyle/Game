@@ -1,0 +1,4 @@
+so if victor is touching a floor, he can't go down anymore. and if he's touching a wall on his left?
+Then he can't move left. If his head is touching a wall, he can't go up anymore and if there is a
+wall on his right, he can't go right anymore.
+
